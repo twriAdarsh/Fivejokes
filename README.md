@@ -11,7 +11,7 @@ The app fetches and displays the **top 5 jokes** from the backend.
 
 ## Tech Stack
 - **Frontend:** React.js, Axios
-- **Backend:** FastAPI (Python)
+- **Backend:** Express.js
 - **Others:** HTML, CSS, JavaScript
 
 ## How to Run
